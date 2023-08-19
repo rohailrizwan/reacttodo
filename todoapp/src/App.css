@@ -1,0 +1,50 @@
+.inputdiv{
+  text-align: center;
+    margin: 40px 0px
+}
+.inputtext{
+  border-radius: 59px;
+    width: 366px;
+    height: 29px;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: blue;
+    outline: none;
+    border: 2px solid blue;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin: 0px 15px 10px 15px;
+}
+.Addbtn,.deleteBtn,.Editbtn,.Savebtn{
+  color: darkgreen;
+  background: none;
+  border: 2px solid darkgreen;
+  outline: none;
+  padding: 5px 20px;
+  width: 120px;
+  height: 40px;
+  border-radius: 23px;
+  font-size: 16px;
+}
+.deleteBtn,.Editbtn{
+  margin-right: 10px;
+}
+.Editbtn{
+  margin-top: 10px;
+}
+.Savebtn{
+  display: none;
+  margin-top: 10px;
+}
+.shownote{
+  margin: 0px 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.mynote{
+  width: 30%;
+  border: 2px solid blue;
+  padding: 5px 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
